@@ -1,8 +1,8 @@
 # About Me
 
-Hi! My name is Smeltie!<br>
+Hi! My name is Smeltie!  
 I'm a 22 year old tech enthausiast from the Netherlands.  
-Here you will find mostly fun projects and stuff I'm working on.
+Here you will find mostly fun projects and stuff I'm working on.  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smeltie&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -14,6 +14,8 @@ Here you will find mostly fun projects and stuff I'm working on.
 - Davinci Resolve
 - Adobe premiere & After effects
 - Affinity Photo
+- Unity
+- Visual Studio Code
 
 ## Programming languages:
 - JavaScript
