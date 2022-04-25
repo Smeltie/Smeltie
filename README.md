@@ -6,7 +6,7 @@ Here you will find mostly fun projects and stuff I'm working on.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smeltie&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smeltie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smeltie&theme=)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Software I Use
 - Blender
