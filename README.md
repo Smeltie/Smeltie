@@ -8,6 +8,7 @@ Here you will find mostly fun projects and stuff I'm working on.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smeltie&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=Smeltie&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 ## Software I Use
 - Blender
 - Fusion360
