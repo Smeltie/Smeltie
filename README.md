@@ -41,3 +41,5 @@ Here you will find mostly fun projects and stuff I'm working on.
 - Video Editing
 - Virtual Reality
 - Metaverse
+
+![](https://komarev.com/ghpvc/?username=Smeltie)
