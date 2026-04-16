@@ -38,12 +38,14 @@ Here you will find mostly fun projects and stuff I'm working on.
 
 
 ## Programming languages:
-- JavaScript
-- Python
-- Bash
-- HTML
-- CSS
-- Markdown
+
+![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/bash-lightgreen?style=for-the-badge&logo=gnu%20bash&logoColor=black)
+![Static Badge](https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/markdown-gray?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ## Languages
 - English
