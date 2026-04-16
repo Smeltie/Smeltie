@@ -6,6 +6,8 @@ Here you will find mostly fun projects and stuff I'm working on.
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4MEm3i0WxIGPyM8YBV9SSQ?style=for-the-badge&logo=Youtube)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC4MEm3i0WxIGPyM8YBV9SSQ?style=for-the-badge&logo=Youtube)
+![GitHub User's stars](https://img.shields.io/github/stars/Smeltie?style=for-the-badge&logo=Github)
+![Bluesky followers](https://img.shields.io/bluesky/followers/smeltie.dev?style=for-the-badge&logo=BlueSky)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smeltie&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,14 +26,16 @@ Here you will find mostly fun projects and stuff I'm working on.
 </a>
 
 ## Software I Use
-- Blender
-- Fusion360
-- FreeCCAD
-- Davinci Resolve
-- KDENLive
-- Affinity Photo
-- Unity
-- Visual Studio Code
+
+![Static Badge](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=Blender&logoColor=white&link=https%3A%2F%2Fblender.org)
+![Static Badge](https://img.shields.io/badge/Freecad-blue?style=for-the-badge&logo=FreeCAD&logoColor=white&link=https%3A%2F%2Ffreecad.org)
+![Static Badge](https://img.shields.io/badge/Kdenlive-red?style=for-the-badge&logo=kdenlive&logoColor=white&link=https%3A%2F%2Fkdenlive.org%2F)
+![Static Badge](https://img.shields.io/badge/davinci%20resolve-yellow?style=for-the-badge&logo=davinciresolve&logoColor=white&link=https%3A%2F%2blackmagicdesign.com%2F)
+![Static Badge](https://img.shields.io/badge/Unity-darkblue?style=for-the-badge&logo=unity&logoColor=white&link=https%3A%2F%2Funity.com%2F)
+![Static Badge](https://img.shields.io/badge/Fusion360-orange?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fwww.autodesk.com%2Fproducts%2Ffusion-360%2F)
+![Static Badge](https://img.shields.io/badge/Affinity-lightgreen?style=for-the-badge&logoColor=white&cacheSeconds=https%3A%2F%2Fwww.affinity.studio%2F)
+![Static Badge](https://img.shields.io/badge/vscodium-lightblue?style=for-the-badge&logo=VSCodium&logoColor=white&cacheSeconds=https%3A%2F%2Fvscodium.com%2F)
+
 
 ## Programming languages:
 - JavaScript
