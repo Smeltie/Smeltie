@@ -8,8 +8,6 @@ Here you will find mostly fun projects and stuff I'm working on.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smeltie&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Smeltie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ### My Linux Distro's of choice:
 
