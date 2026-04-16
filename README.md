@@ -4,6 +4,10 @@ Hi! My name is Smeltie!
 I'm a 26 year old tech enthausiast from the Netherlands.  
 Here you will find mostly fun projects and stuff I'm working on.  
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4MEm3i0WxIGPyM8YBV9SSQ?style=for-the-badge&logo=Youtube)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC4MEm3i0WxIGPyM8YBV9SSQ?style=for-the-badge&logo=Youtube)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smeltie&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smeltie&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
