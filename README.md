@@ -10,11 +10,6 @@ Here you will find mostly fun projects and stuff I'm working on.
 ![Bluesky followers](https://img.shields.io/bluesky/followers/smeltie.dev?style=for-the-badge&logo=BlueSky)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smeltie&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smeltie&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### My Linux Distro's of choice:
 
 <a href="https://www.fedoraproject.org/" target="_blank" rel="nofollow noopener noreferrer" style="text-decoration:none;">
